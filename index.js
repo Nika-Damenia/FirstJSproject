@@ -15,3 +15,6 @@ console.log( (F - 32) * 5/9)
 let C = 5;
 
 console.log(C * 9/5 + 32);
+
+
+baro
